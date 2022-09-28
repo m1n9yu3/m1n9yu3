@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @m1n9yu3
-- 👀 I’m interested in binary analysis
+- 👋 Hi, I’m m1n9yu3
+- 👀 I’m interested in BinaryAnalysis && vulnexploit
 - 🌱 I’m currently learning code audit
 
 <!---
